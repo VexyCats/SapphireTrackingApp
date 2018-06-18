@@ -1,0 +1,24 @@
+h1 {
+	flex-basis: calc(50%-20px);
+	background-color: 'red';
+	text-decoration-color: 'blue';
+
+}
+cardTitle {
+	display: flex;		
+	flex-wrap: wrap;
+	align-content: flex-start;
+	background-color: 'red';
+}
+row-horizon {
+	display: flex;		
+	flex-wrap: wrap;
+	align-content: flex-start;
+	background-color: 'red';
+}
+pic {
+	display: flex;
+	flex-wrap: wrap;
+	align-content: flex-start;
+
+}
